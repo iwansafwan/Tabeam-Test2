@@ -1,0 +1,52 @@
+/* resources/css/admin.css */
+
+/* Style the container */
+.container {
+    margin-top: 20px;
+}
+
+/* Style the table */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+/* Style table headers */
+.table th {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style table rows */
+.table td {
+    padding: 10px;
+}
+
+/* Style success alert */
+.alert-success {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+/* Style form select */
+.form-select {
+    width: 150px;
+}
+
+/* Style assign role button */
+.btn-primary {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
